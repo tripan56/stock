@@ -1,0 +1,11 @@
+# Local caches the scripts rebuild on demand
+.fii_cache.json
+.cache/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
